@@ -1,12 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "RollerMadness",
-			"path": "."
-		},
-		{
 			"name": "new6000",
 			"path": "../../new6000"
+		},
+		{
+			"name": "RollerMadness",
+			"path": "."
 		}
 	],
 	"settings": {}
