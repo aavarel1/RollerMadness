@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a475d66a263954aa5a1904bb1ae98c87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - mainCanvas: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - playAgainButton: {instanceID: 0}
+  - nextLevelButton: {instanceID: 0}
+  - backgroundMusic: {instanceID: 0}
+  - gameOverSFX: {fileID: 8300000, guid: dac6af1ea8cf34f5ba755896f995ddbd, type: 3}
+  - beatLevelSFX: {instanceID: 0}
+  - PauseCanvas: {instanceID: 0}
+  - EnemyPrefab: {instanceID: 0}
+  - CoinPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
